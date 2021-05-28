@@ -1,0 +1,91 @@
+{
+  "tasks": [
+    { "id": 1,
+   
+      "title": "Vaga de voluntariado",
+      "description": "Entrega de roupas e alimentos para moradores de rua",
+      "category":"",
+      "image":"https://i.imgur.com/j7Q90nG.png",
+      "action":"Participar",
+      "region":"São Paulo,SP"
+    },
+    {
+      "id": 2,
+      "title": "Doação de materiais",
+     "description": "Arrecadação de alimentos para moradores de rua",
+     "category":"",
+     "image":"https://i.imgur.com/XKRSxb5.png",
+      "action":"Doar",
+      "region":"Natal,RN"
+    },
+    {
+      "id": 3,
+      
+      "title": "Campanha de arrecadação",
+      "description": "Arrecadação de alimentos para moradores de rua",
+      "category":"",
+      "image":"https://i.imgur.com/LPVmjzg.png",
+      "action":"Contribuir",
+      "region":"Rio de Janeiro,RJ"
+  
+    },
+    { "id": 4,
+   
+      "title": "Vaga de voluntariado",
+      "description": "Entrega de roupas e alimentos para moradores de rua",
+      "category":"",
+      "image":"https://i.imgur.com/XKRSxb5.png",
+      "action":"Participar",
+      "region":"São Paulo,SP"
+    },
+    {
+      "id": 5,
+      "title": "Doação de materiais",
+     "description": "Arrecadação de alimentos para moradores de rua",
+     "category":"",
+     "image":"https://i.imgur.com/j7Q90nG.png",
+      "action":"Doar",
+      "region":"Natal,RN"
+    },
+    {
+      "id": 6,
+      
+      "title": "Campanha de arrecadação",
+      "description": "Arrecadação de alimentos para moradores de rua",
+      "category":"",
+      "image":"https://i.imgur.com/j7Q90nG.png",
+      "action":"Contribuir",
+      "region":"Rio de Janeiro,RJ"
+  
+    },
+    {
+      "id": 7,
+      "title": "Doação de materiais",
+     "description": "Arrecadação de alimentos para moradores de rua",
+     "category":"",
+     "image":"https://i.imgur.com/LPVmjzg.png",
+      "action":"Doar",
+      "region":"Natal,RN"
+    },
+    {
+      "id": 8,
+      
+      "title": "Campanha de arrecadação",
+      "description": "Arrecadação de alimentos para moradores de rua",
+      "category":"",
+      "image":"https://i.imgur.com/XKRSxb5.png",
+      "action":"Contribuir",
+      "region":"Rio de Janeiro,RJ"
+  
+    },
+    { "id": 9,
+   
+      "title": "Vaga de voluntariado",
+      "description": "Entrega de roupas e alimentos para moradores de rua",
+      "category":"",
+      "image":"https://i.imgur.com/XKRSxb5.png",
+      "action":"Participar",
+      "region":"São Paulo,SP"
+    }
+  ]
+}

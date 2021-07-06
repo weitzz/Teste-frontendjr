@@ -24,7 +24,7 @@ Rode na pasta maquinadobem ``` json-server data.json -p 3333```
 - Axios
 - Json-server 
 
-[Imgur](https://i.imgur.com/93iVHHN.jpg)
+![Image](https://i.imgur.com/93iVHHN.jpg)
 
  ---
  <p align="center">Feito com ❤️ por <strong>Tatiane Weitzel<p>
